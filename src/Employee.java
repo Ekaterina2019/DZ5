@@ -1,3 +1,4 @@
+//Lesson05
 public class Employee {
     //public static  void main (String ars[]){
 
@@ -18,7 +19,7 @@ public class Employee {
         this.age = age;
     }
 
-
+//Task03
     public void person() {
         System.out.println(IFO + "Name:" + Profession + "Profession:" + email + "Email:"+ phone + "NumberPhone:"+
                 salary + " " + age + "Age:");
